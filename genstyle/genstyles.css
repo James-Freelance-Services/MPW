@@ -1,0 +1,76 @@
+/* Genstyles CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 5px;
+    padding: 5px;
+}
+
+header {
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    background-color: blue;
+    text-decoration: none;
+}
+
+header section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin: 5px;
+    padding: 5px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+div {
+    padding: 10px;
+    margin: 10px;
+}
+
+
+div nav {
+    margin: 10px;
+    padding: 10px;
+}
+
+div nav ul {
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+
+div nav ul a {
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+main {
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
