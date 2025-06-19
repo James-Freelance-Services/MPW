@@ -1,0 +1,52 @@
+/* About CSS */
+
+.about-header {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 960px;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.about-header h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.about-body {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 960px;
+    margin: auto;
+    text-align: center;
+}
+
+.about-body p {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.nav {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 960px;
+    margin: auto;
+    text-align: center;
+}
+
+.nav h2 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.nav p {
+    font-size: 1rem;
+    color: #666;
+}
