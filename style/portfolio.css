@@ -1,0 +1,47 @@
+/* Home CSS */
+
+.works {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 960px;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.works h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.works p {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.gallery, .video-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    max-width: 960px;
+    margin: auto;
+    padding: 1rem;
+}
+
+.gallery img {
+    width: 250px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    transition: 0.3s;
+}
+.gallery img:hover {
+    transform: scale(1.03);
+}
+
+.video-gallery iframe {
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
