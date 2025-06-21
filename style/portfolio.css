@@ -1,4 +1,4 @@
-/* Home CSS */
+/* Portofolio CSS */
 
 .works {
     background-color: #ffffff;
@@ -6,7 +6,7 @@
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     max-width: 960px;
-    margin: auto;
+    margin: 10px;
     margin-bottom: 2rem;
     text-align: center;
 }
@@ -27,7 +27,7 @@
     justify-content: center;
     gap: 1.5rem;
     max-width: 960px;
-    margin: auto;
+    margin: 10px;
     padding: 1rem;
 }
 
