@@ -18,11 +18,11 @@
 
 .about-body {
     background-color: #ffffff;
-    padding: 2rem;
+    padding: 10px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     max-width: 960px;
-    margin: auto;
+    margin: 10px;
     text-align: center;
 }
 
