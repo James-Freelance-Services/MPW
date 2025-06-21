@@ -80,3 +80,18 @@ footer section {
 footer section p {
     text-align: center;
 }
+
+.buton {
+    width: fit-content;
+    padding: 0.75rem 1.5rem;
+    background-color: #0055ff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.buton:hover {
+    background-color: #003bb3;
+}
