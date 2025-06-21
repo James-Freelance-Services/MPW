@@ -2,7 +2,7 @@
 
 .works {
     background-color: #ffffff;
-    padding: 2rem;
+    padding: 10px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     max-width: 960px;
@@ -28,7 +28,7 @@
     gap: 1.5rem;
     max-width: 960px;
     margin: 10px;
-    padding: 1rem;
+    padding: 10px;
 }
 
 .gallery img {
