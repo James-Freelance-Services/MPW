@@ -7,13 +7,12 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     max-width: 960px;
     margin: 10px;
-    margin-bottom: 2rem;
     text-align: center;
 }
 
 .works h2 {
     font-size: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 10px;
 }
 
 .works p {
