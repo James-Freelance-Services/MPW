@@ -1,0 +1,41 @@
+/* Home CSS */
+
+.nav {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 960px;
+    margin: 10px;
+    text-align: center;
+}
+
+.nav h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.nav p {
+    font-size: 1.1rem;
+    color: #666;
+}
+
+.welcome {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    max-width: 960px;
+    margin: 10px;
+    text-align: center;
+}
+
+.welcome h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.welcome p {
+    font-size: 1.1rem;
+    color: #555;
+}
